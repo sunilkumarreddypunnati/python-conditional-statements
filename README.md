@@ -1,4 +1,10 @@
-# ⚖️ Python Conditional Statements Practice – Beginner to Advanced Tasks
+# ⚖️ Python Conditional Statements Practice – Beginner to Advanced
+
+![Python](https://img.shields.io/badge/python-3.10-blue.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/sunilkumarreddypunnati/python-conditional-practice)
+![Repo Size](https://img.shields.io/github/repo-size/sunilkumarreddypunnati/python-conditional-practice)
+![License](https://img.shields.io/github/license/sunilkumarreddypunnati/python-conditional-practice)
+![GitHub stars](https://img.shields.io/github/stars/sunilkumarreddypunnati/python-conditional-practice?style=social)
 
 This repository is a hands-on guide to mastering **conditional logic in Python**,  
 featuring tasks that progress from **basic checks** to **real-world decision systems**.  
@@ -52,4 +58,4 @@ I believe in **learning by doing**, and this project reflects my commitment to m
 **A curated set of Python tasks demonstrating conditional statements from beginner to advanced levels.**  
 Each task includes code, output screenshots, and practical logic examples to help learners build confidence.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/sunilkumarreddypunnati/python-conditional-practice)
+
